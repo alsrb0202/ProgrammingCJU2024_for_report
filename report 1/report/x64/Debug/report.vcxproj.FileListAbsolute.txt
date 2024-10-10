@@ -1,1 +1,2 @@
 C:\Users\alsrb\Documents\GitHub\ProgrammingCJU2024_for_report\report\report\x64\Debug\report.exe
+C:\Users\alsrb\Documents\GitHub\ProgrammingCJU2024_for_report\report 1\report\x64\Debug\report.exe
