@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alsrb\\Documents\\GitHub\\ProgrammingCJU2024_for_report\\report4-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9988B346-1F5F-474E-9FFE-EFD35AF7750D}|report4-1\\report4-1.vcxproj|C:\\Users\\alsrb\\Documents\\GitHub\\ProgrammingCJU2024_for_report\\report4-1\\report4-1\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9988B346-1F5F-474E-9FFE-EFD35AF7750D}|report4-1\\report4-1.vcxproj|solutionrelative:report4-1\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "C:\\Users\\alsrb\\Documents\\GitHub\\ProgrammingCJU2024_for_report\\report4-1\\report4-1\\FileName.cpp",
+              "RelativeDocumentMoniker": "report4-1\\FileName.cpp",
+              "ToolTip": "C:\\Users\\alsrb\\Documents\\GitHub\\ProgrammingCJU2024_for_report\\report4-1\\report4-1\\FileName.cpp",
+              "RelativeToolTip": "report4-1\\FileName.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-08T09:12:09.9Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
